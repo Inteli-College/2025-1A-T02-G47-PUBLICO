@@ -7,3 +7,6 @@ Repository for group 47 of class T02 (2025/1A)
 
 ## Module 2
 [Final Report (M2) PDF](./Modulo%202%20-%20Final%20Report.pdf) <br>
+
+## Modulo 3
+[Final Report (M3) PDF](./Modulo%203%20-%20Final%20Report.pdf) <br>
