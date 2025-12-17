@@ -10,3 +10,7 @@ Repository for group 47 of class T02 (2025/1A)
 
 ## Modulo 3
 [Final Report (M3) PDF](./Modulo%203%20-%20Final%20Report.pdf) <br>
+
+## Module 4
+[Final Report (M3) PDF](./TCC_Inteli%20Empreendedor.docx.pdf)
+[Business plan](./Plano_de_Negocios_Livora.pdf)
